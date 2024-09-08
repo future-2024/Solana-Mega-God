@@ -22,6 +22,7 @@ const Header = () => {
         else setMenu('');
         setIsOpen(!isOpen);
     }
+    
     const click = () => {
         setMenu('')
     }
@@ -32,7 +33,7 @@ const Header = () => {
                     <img className='mb-1' src="img/icon.png" width={50} alt="Logo" />
                     <h3 className='align-self-center ml-4 border-100' style={{fontWeight:'700'}}>Mega Sol God</h3>
                 </div>
-                
+
                 {!isMobile && (
                     <div className="rest">
                         <div><a href='#home'><h4 className='mx-3 color-header'>Home</h4></a></div>
