@@ -58,7 +58,7 @@ export const PieChart = ({ width, height, data }) => {
             ref.current.classList.add(styles.hasHighlight);
           }
         }}
-        
+
         onMouseLeave={() => {
           if (ref.current) {
             ref.current.classList.remove(styles.hasHighlight);
@@ -75,6 +75,7 @@ export const PieChart = ({ width, height, data }) => {
           stroke={"white"}
           fill={"white"}
         />
+        
         <line
           x1={inflexionPoint[0]}
           y1={inflexionPoint[1]}
