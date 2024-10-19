@@ -58,6 +58,7 @@ export const PieChart = ({ width, height, data }) => {
             ref.current.classList.add(styles.hasHighlight);
           }
         }}
+        
         onMouseLeave={() => {
           if (ref.current) {
             ref.current.classList.remove(styles.hasHighlight);
