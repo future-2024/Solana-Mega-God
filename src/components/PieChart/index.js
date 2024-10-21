@@ -75,7 +75,7 @@ export const PieChart = ({ width, height, data }) => {
           stroke={"white"}
           fill={"white"}
         />
-        
+
         <line
           x1={inflexionPoint[0]}
           y1={inflexionPoint[1]}
@@ -84,6 +84,7 @@ export const PieChart = ({ width, height, data }) => {
           stroke={"white"}
           fill={"white"}
         />
+        
         <text
           x={labelPosX + (isRightLabel ? 2 : -2)}
           y={inflexionPoint[1]}
