@@ -4,6 +4,7 @@ import { Switch, Route } from 'react-router-dom';
 import './App.css';
 import "./css/tailwind.output.css";
 import './font/font.css';
+
 import './css/fontawesome-free-6.0.0-beta3-web/css/fontawesome.css';
 import './css/fontawesome-free-6.0.0-beta3-web/css/brands.css';
 import './css/fontawesome-free-6.0.0-beta3-web/css/solid.css';
