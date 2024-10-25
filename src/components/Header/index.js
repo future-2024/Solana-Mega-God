@@ -42,7 +42,6 @@ const Header = () => {
                         <div><a href='#security'><h4 className='mx-3 color-header'>Security</h4></a></div>
                         <div><a href='#contact'><h4 className='mx-3 color-header'>Contact</h4></a></div>                    
                     </div> 
-
                 )}
 
                 {isMobile && (
