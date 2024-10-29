@@ -25,9 +25,8 @@ export const PieChart = ({ width, height, data }) => {
   }, [data]);
 
   const arcGenerator = d3.arc();
-
   const shapes = pie.map((grp, i) => {
-    // First arc is for the Pie
+    // First arc is for the Pie 
     const sliceInfo = {
       innerRadius: 0,
       outerRadius: radius,
@@ -45,7 +44,6 @@ export const PieChart = ({ width, height, data }) => {
       endAngle: grp.endAngle,
     };
     const inflexionPoint = arcGenerator.centroid(inflexionInfo);
-
     const isRightLabel = inflexionPoint[0] > 0;
     const labelPosX = inflexionPoint[0] + 50 * (isRightLabel ? 1 : -1);
     const textAnchor = isRightLabel ? "start" : "end";
