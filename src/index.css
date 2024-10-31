@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1, h2, h3, h4, h5, h6, p {
+  color: white;
+}
+code {
+  font-family: Whyte Inktrap, sans-serif;
+}
+canvas {
+  z-index:0!important;
+}
+.color-main {
+  color: #ffa318;
+}

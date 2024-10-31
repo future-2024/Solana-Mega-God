@@ -1,0 +1,66 @@
+1. Introduction
+Welcome to the world of Mega Sol God ($MSG), a high-risk, community-driven memecoin on the Solana blockchain. With a simple and exciting redistribution mechanism, Mega Sol God offers a unique opportunity for degens and speculators alike to participate in weekly rewards. The goal is simple: pay homage to the Mega Sol God, contribute to the treasury, and you could be the one chosen to receive a massive reward.
+2. Overview
+Mega Sol God operates on a straightforward model designed for maximum engagement and participation. Every transaction on the network is taxed, with a portion going into a treasury that is redistributed to one lucky participant every 7 days.
+The core of $MSG is community and chance, powered by randomness to ensure fairness and excitement at every step.
+3. Tokenomics
+Mega Sol God is built with transparent and simple tokenomics to drive participation and rewards.
+• Blockchain: Solana
+• Token Supply: 100 Million
+• 50% Presale, 25% LP, 10% marketing, 7% development, 5% community engagement, 3% allocation
+• Token Symbol: $MSG
+• Transaction Tax: 7%
+o 1% goes to the Mega Sol God.
+o 6% is collected into the treasury, redistributed every 7 days.
+Sales Structure:
+• Private Sale: Raising 10 SOL.
+• Public Presale:
+o Soft Cap: 75 SOL.
+o Hard Cap: 150 SOL.
+Once the presale is completed, $MSG will be publicly launched, and participants can start trading the token.
+4. Redistribution Mechanism
+The defining feature of Mega Sol God is its treasury redistribution:
+• 7% tax on every transaction:
+o 1% is retained by the Mega Sol God.
+o 6% is collected in the treasury.
+Every 7 days, one lucky wallet is randomly selected to receive the full amount from the treasury. This selection is completely automated using Switchboard's randomness services, ensuring transparency and fairness. It’s a chance for anyone who holds and transacts with $MSG to receive a significant reward.
+5. Sales & Launch Plan
+The journey of $MSG begins with a private sale to raise 10 SOL, followed by a public presale:
+• Private Sale: Exclusive to early participants, aiming to raise initial funds.
+• Public Presale:
+o Soft Cap: 75 SOL.
+o Hard Cap: 150 SOL.
+After the presale, Mega Sol God ($MSG) will be launched on the Solana blockchain, and the token will be available for trading. Early participants who acquire tokens during the presale will have a head start in participating in the weekly treasury redistributions.
+6. Randomness & Fairness
+The key to Mega Sol God's fairness is Switchboard's randomness services. Each week, Switchboard’s decentralized oracle network selects one wallet at random to receive the accumulated treasury funds. This ensures that every participant has an equal chance to win, with no way to manipulate the selection process.
+7. Roadmap
+Q4 2024:
+• Private Sale: Raise 10 SOL.
+• Public Presale: Launch with a soft cap of 75 SOL and a hard cap of 150 SOL.
+• Token Launch: Begin trading on Solana's decentralized exchanges.
+• Initial Community Engagement: Start building a strong community on platforms like X (formerly Twitter) and Telegram.
+• Treasury rewards: 7 days after launch will be the first lump sum reward, will continue every 7 days with a new treasury winner.
+
+
+
+Q1 2025:
+• Expansion of Awareness Campaigns: Target more influencers and platforms to grow the $MSG community.
+• CEX: Target central exchange listing to prepare for retail.
+
+
+
+Q2 2025 and Beyond:
+• Growth Initiatives: Drive liquidity and volume through partnerships and community-driven campaigns.
+• Loyalty Programs: Reward top holders and community participants with special incentives.
+8. Security
+While Mega Sol God is a degen project, the smart contract and treasury management will be fully tested and verified to ensure integrity. Randomness will be handled transparently by Switchboard, providing peace of mind to the community.
+9. Conclusion
+Mega Sol God ($MSG) is a high-stakes, speculative project designed for degens who love risk and reward. With its unique redistribution mechanism and community focus, $MSG offers a thrilling opportunity for participants to win big every 7 days. Step into the world of Mega Sol God and embrace the chance for fortune and glory.
+
+
+
+Mega sol god is the god of Rewards
+
+
+
+He is the divine figure who reigns over the flow of wealth. Taking 7% from every transaction, He graciously deposits 6% into His treasury. For seven days, He watches over His accumulating fortune. On the seventh day, He shows favor to one of His loyal servants, bestowing upon them the entire contents of His treasury in one grand, random selection. All must pay homage, but only one will be chosen to receive the massive reward, a true blessing from His treasury, delivered every seven days.

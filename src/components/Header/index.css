@@ -1,0 +1,33 @@
+
+.header-component {
+    border-bottom: #e37f2f solid 3px;
+    background-color: #0000005c;
+    /* position: fixed;
+    top: 0; */
+}
+.rest > div > a {
+    text-decoration: none;
+}
+.rest > div > a > h4 {
+    color: #f7c376;
+    cursor: pointer;
+}
+.rest > div > a > h4:hover {
+    color: #b0884c;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
+.header-menu {
+    display: none;
+}
+.menu-section > div > a {
+    text-decoration: none;
+}
+@media (max-width: 500px) {
+    header > .rest {
+        display: none;
+    }
+    .header-menu {
+        display: contents;
+    }
+}

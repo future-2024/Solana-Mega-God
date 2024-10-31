@@ -1,0 +1,150 @@
+.main-back {
+    width: 900px;
+}
+.header-title {
+    max-width: 500px;
+}
+.bg-black-2 {
+    background-color: rgba(0, 0, 0, 0.449);
+}
+.h-400 {
+    height: 450px;
+}
+.hr-whtie {
+  border: 1px white solid;
+  color: white;
+  opacity: 1;
+}
+.vr-line {
+  border: 2px solid white;
+  /* transform: rotate(90deg); */
+  color: white;
+  width: 2px;
+  opacity: 1;
+  height: 419px;
+}
+.background-3 {
+  background-image: url(./Data/main-back3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* opacity: 0.5; */
+}
+.timeline {
+    border-left: 1px solid hsl(0, 0%, 90%);
+    position: relative;
+    list-style: none;
+  }
+  
+  .timeline .timeline-item {
+    position: relative;
+  }
+  
+  .timeline .timeline-item:after {
+    position: absolute;
+    display: block;
+    top: 0;
+  }
+  
+  .timeline .timeline-item:after {
+    background-color: hsl(288, 100%, 50%);
+    left: -30px;
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+  }
+.text-blue {
+    color: rgb(52, 123, 255);
+}
+.text-gray {
+    color: rgb(254 164 44);
+}
+.timeline > li > p {
+    text-align: justify;
+    font-weight: 400;
+}
+.text-plan {
+  color: #ff21ff;
+}
+.text-redistribution {
+  color: #5858ff;
+}
+.bg-back-2 {
+  background-image: url(./Data/background.png);
+  background-size: cover;  
+  background-color: rgb(35 35 35 / 97%);
+  /* -webkit-filter: drop-shadow(5px 5px 5px #ff8036); */
+  /* filter: drop-shadow(5px 5px 5px #ff8036); */
+}
+.text-bluepink {
+  color: rgb(255, 26, 87);
+}
+.background-end {
+  background-color: rgba(0, 0, 0, 0.57);
+}
+
+.background-roadmap {
+  background-color: rgb(35 35 35 / 57%);
+  border-radius: 0px 12px 12px 0px;
+}
+.ml-lg {
+  margin-left: 40px;
+}
+.background-security {
+  background-color: rgba(137, 43, 226);
+}
+.background-conclusion {
+  background-color: rgba(255, 191, 0);
+}
+.section-token h4 {
+  color: rgb(188, 188, 188);
+}
+.w-45 {
+  width: 45%;
+}
+.pink {
+  color: #ff21ff;
+}
+.security-section > div {
+  width: 50%!important;
+}
+.header-description {
+ text-align: justify;
+}
+.roadmap-title {
+  padding: 50px 0px;
+}
+.menu-section {
+  width: 100%;
+  background-color: #00000044;
+}
+@media (max-width: 500px) {
+  .main-back {
+    width: 100%;
+  }
+  .roadmap-title {
+    padding: 10px 0px;
+  }
+  .bg-back-2 {
+    background-image: url(./Data/background.png);
+    background-size: contain;
+    background-color: rgb(35 35 35 / 97%);
+    background-repeat: no-repeat;
+    padding-top: 437px;
+  }
+  .header-description {
+    text-align: center;
+   }
+  .vr-line {
+    display: none;
+  }
+  .timeline {
+    width: 100%!important;
+  }
+  .w-45{
+    width: 100%;
+  }
+  .security-section > div {
+    width: 100%!important;
+  }
+}
