@@ -18,9 +18,7 @@ const colors = [
 
 export const PieChart = ({ width, height, data }) => {
   const ref = useRef(null);
-
   const radius = Math.min(width - 2 * MARGIN_X, height - 2 * MARGIN_Y) / 2;
-
   const pie = useMemo(() => {
     const pieGenerator = d3.pie().value((d) => d.value);
     return pieGenerator(data);
