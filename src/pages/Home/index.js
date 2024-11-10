@@ -13,6 +13,7 @@ const Home = () => {
     const isMobile = useMediaQuery({ query: '(max-width: 600px)' })
     return (
         <>
+        
             <div id='stars' style={{position:"absolute"}}></div>
             <div id='stars2' style={{position:"absolute"}}></div>
             <div id='stars3' style={{position:"absolute"}}></div>
